@@ -38,7 +38,7 @@ Description Languages.<br>
 • A 3 hour introductory session shall be spent to make the students aware of the
 fundamentals of development using Verilog<br>
 • Out of the 8 experiments listed below, a minimum of 4 experiments should be
-completed by a student<br>
+completed by a student<br><br><br>
 Experiment 1. Realization of Logic Gates and Familiarization of Verilog<br>
 (a) Familiarization of the basic syntax of Verilog<br>
 (b) Development of Verilog modules for basic gates and to verify truth tables.<br>
