@@ -7,7 +7,7 @@ in groups (maximum group size being 4). The performance of a student in the grou
 be assessed based on teamwork, integrity and cooperation.<br><br>
 Part A (Any 8 Experiments)<br>
 • A 2 hour session should be spent to make the students comfortable with the use of
-trainer kit/breadboard and ICs. • The following experiments can be conducted on breadboard or trainer kits. • Out of the 15 experiments listed below, a minimum of 8 experiments should be<br>
+trainer kit/breadboard and ICs.<br> • The following experiments can be conducted on breadboard or trainer kits.<br> • Out of the 15 experiments listed below, a minimum of 8 experiments should be<br>
 completed by a student, including the mandatory experiments (5).<br>
 1. Realization of functions using basic and universal gates (SOP and POS forms).<br>
 2. Design and realization of half adder, full adder, half subtractor and full subtractor using:<br>
@@ -29,8 +29,8 @@ Johnson Counter using flipflops. *<br>
 12. Design and implement BCD to Seven Segment Decoder.<br>
 13. Realization of Multiplexers and De-multiplexers using gates.<br>
 14. Realization of combinational circuits using MUX & DEMUX ICs (74150, 74154).<br>
-15. To design and set up a 2-bit magnitude comparator using basic gates.<br>
-<br><br><br>
+15. To design and set up a 2-bit magnitude comparator using basic gates.<br><br><br>
+
 PART B (Any 4 Experiments)<br>
 • The following experiments aim at training the students in digital circuit design with
 Verilog. The experiments will lay a foundation for digital design with Hardware
@@ -38,7 +38,7 @@ Description Languages.<br>
 • A 3 hour introductory session shall be spent to make the students aware of the
 fundamentals of development using Verilog<br>
 • Out of the 8 experiments listed below, a minimum of 4 experiments should be
-completed by a student<br><br><br>
+completed by a student<br><br>
 Experiment 1. Realization of Logic Gates and Familiarization of Verilog<br>
 (a) Familiarization of the basic syntax of Verilog<br>
 (b) Development of Verilog modules for basic gates and to verify truth tables.<br>
@@ -49,7 +49,6 @@ Experiment 2: Half adder and full adder<br>
 structural/behavioural).<br>
 (b) Development of Verilog modules for full adder in structural modeling using half
 adder.<br><br>
-
 Experiment 3: Design of code converters<br>
 Design and simulate the HDL code for<br>
 (a) 4- bit binary to gray code converter<br>
@@ -61,8 +60,8 @@ Experiment 5: Adder/Subtractor<br>
 (a) Write the Verilog modules for a 4-bit adder/subtractor<br>
 (b) Development of Verilog modules for a BCD adder<br><br>
 Experiment 6: Magnitude Comparator<br>
-Development of Verilog modules for a 4 bit magnitude comparator<br>
-Experiment 7: Flipflops and shiftregisters<br><br>
+Development of Verilog modules for a 4 bit magnitude comparator<br><br>
+Experiment 7: Flipflops and shiftregisters<br>
 (a) Development of Verilog modules for SR, JK, T and D flip flops.<br>
 (b) Development of Verilog modules for a Johnson/Ring counter<br><br>
 Experiment 8: Counters<br>
